@@ -49,3 +49,4 @@ We would like to recognize the contributions of these past members of the Docs I
 * Don Richards (Convenor)
 * Kirsta Stapelfeldt (Convenor)
 * Becky Yoose
+* Cary Gordon
